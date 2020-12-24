@@ -1,6 +1,7 @@
 
 <template>
   <div class="map-view">
+    Works!
     <div ref="map" class="map-view" />
   </div>
 </template>
