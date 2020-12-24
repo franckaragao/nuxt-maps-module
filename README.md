@@ -2,6 +2,7 @@
 
 > Nuxt module allowing you to inject google maps javascript api to the project
 > This repo was forked from https://github.com/WilliamDASILVA/nuxt-google-maps-module and tweaked as the owner was un responsive on the repo issues
+> Include support to `runtimeConfig`
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
@@ -32,5 +33,3 @@
 ## License
 
 [MIT License](./LICENSE)
-
-Copyright (c) Felix DENOIX <felix.denoix@gmail.com>
