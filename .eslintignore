@@ -1,3 +1,9 @@
-src/templates
-src/*.template.*
+
+# Common
+node_modules
 dist
+.nuxt
+coverage
+
+# Plugin
+lib/plugin*.js

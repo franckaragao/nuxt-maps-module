@@ -1,78 +1,36 @@
-# Nuxt Google Maps Module
+# nuxt-maps-module
 
-[![npm (scoped with tag)](https://img.shields.io/npm/v/nuxt-google-maps-module/latest.svg?style=flat-square)](https://npmjs.com/package/nuxt-google-maps-module)
-[![npm](https://img.shields.io/npm/dt/nuxt-google-maps-module.svg?style=flat-square)](https://npmjs.com/package/nuxt-google-maps-module)
-[![js-airbnb-style](https://img.shields.io/badge/code_style-airbnb-brightgreen.svg?style=flat-square)](https://github.com/airbnb/javascript)
+> Nuxt module allowing you to inject google maps javascript api to the project
+> This repo was forked from https://github.com/WilliamDASILVA/nuxt-google-maps-module and tweaked as the owner was un responsive on the repo issues
 
-> A NuxtJS module to import Google maps script
+[📖 **Release Notes**](./CHANGELOG.md)
 
-## Table of Contents ##
+## Setup
 
-* [Requirements](#requirements)
-* [Install](#install)
-* [Getting Started](#getting-started)
-* [Usage](#usage)
-* [License](#license)
+1. Add the `nuxt-maps-module` dependency with `yarn` or `npm` to your project
+2. Add `nuxt-maps-module` to the `modules` section of `nuxt.config.js`
+3. Configure it:
 
-## Requirements
-
-* npm
-* NuxtJS
-* NodeJS
-
-## Install
-
-```bash
-$ npm install --save nuxt-google-maps-module
-```
-
-## Getting Started
-
-Add `nuxt-google-maps-module` to `modules` section of `nuxt.config.js`.
 ```js
 {
   modules: [
     // Simple usage
-    'nuxt-google-maps-module',
+    'nuxt-maps-module',
 
     // With options
-    ['nuxt-google-maps-module', {
-      /* module options */
-      key: 'GOOGLE MAPS KEY', // Default
-    }],
- ]
-}
-```
-or even
-```js
-{
-  modules: [
-    'nuxt-google-maps-module',
-  ],
-  maps: {
-    key: 'GOOGLE MAPS KEY',
-  },
+    ['nuxt-maps-module', { /* module options */ }]
+  ]
 }
 ```
 
-## Usage
+## Development
 
-Once configured in `nuxt.config.js`, you can use it in your components like:
-
-```js
-{
-  ...
-  mounted() {
-    const autocomplete = new this.$google.maps.places.Autocomplete(inputElement,
-      {
-        types: ['geocode'],
-      },
-    );
-  },
-  ...
-}
-```
+1. Clone this repository
+2. Install dependencies using `yarn install` or `npm install`
+3. Start development server using `npm run dev`
 
 ## License
 
 [MIT License](./LICENSE)
+
+Copyright (c) Felix DENOIX <felix.denoix@gmail.com>
