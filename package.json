@@ -1,6 +1,6 @@
 {
   "name": "nuxt-maps-module",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "NuxtJS module to import Google Maps",
   "license": "MIT",
   "main": "lib/module.js",
