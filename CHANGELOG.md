@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.6](https://github.com/franckaragao/nuxt-maps-module/compare/v0.1.5...v0.1.6) (2021-01-04)
+
+
+### Bug Fixes
+
+* **Plugin:** inject maps object in context nuxt ([f6f7db7](https://github.com/franckaragao/nuxt-maps-module/commit/f6f7db7a6e24f4fc642d302049a3a3b7a8fa47cb))
+
 ### [0.1.5](https://github.com/franckaragao/nuxt-maps-module/compare/v0.1.4...v0.1.5) (2021-01-04)
 
 
