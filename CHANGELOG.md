@@ -9,6 +9,13 @@ All notable changes to this project will be documented in this file. See [standa
 
 * **Plugin:** load script in plugin only ([f166c1d](https://github.com/franckaragao/nuxt-maps-module/commit/f166c1db2182b7248fd01e91f802db04b8d5c9db))
 
+### [0.1.4](https://github.com/franckaragao/nuxt-maps-module/compare/v0.1.3...v0.1.4) (2021-01-04)
+
+
+### Bug Fixes
+
+* **Plugin:** load script in plugin only ([f166c1d](https://github.com/franckaragao/nuxt-maps-module/commit/f166c1db2182b7248fd01e91f802db04b8d5c9db))
+
 ### [0.1.5](https://github.com/franckaragao/nuxt-maps-module/compare/v0.1.6...v0.1.5) (2021-01-04)
 
 ### [0.1.4](https://github.com/franckaragao/nuxt-maps-module/compare/v0.1.6...v0.1.4) (2021-01-04)
