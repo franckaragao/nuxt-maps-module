@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.1.4](https://github.com/franckaragao/nuxt-maps-module/compare/v0.1.6...v0.1.4) (2021-01-04)
 
+### [0.1.4](https://github.com/franckaragao/nuxt-maps-module/compare/v0.1.6...v0.1.4) (2021-01-04)
+
 ### [0.1.6](https://github.com/franckaragao/nuxt-maps-module/compare/v0.1.5...v0.1.6) (2021-01-04)
 
 ### [0.1.5](https://github.com/franckaragao/nuxt-maps-module/compare/v0.1.4...v0.1.5) (2021-01-04)
