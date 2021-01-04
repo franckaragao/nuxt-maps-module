@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/franckaragao/nuxt-maps-module/compare/v0.1.6...v0.1.7) (2021-01-04)
+
+
+### Bug Fixes
+
+* **README:** docs ([3f547df](https://github.com/franckaragao/nuxt-maps-module/commit/3f547df23dd6411ab91f041c57fa2f5ff95d66c0))
+
 ### [0.1.6](https://github.com/franckaragao/nuxt-maps-module/compare/v0.1.5...v0.1.6) (2021-01-04)
 
 
