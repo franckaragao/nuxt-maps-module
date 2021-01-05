@@ -16,6 +16,11 @@ export default {
       mapInstance: null
     }
   },
+
+  middleware({ $google }) {
+    console.log('$google: ', $google);
+  },
+
   mounted () {
     const element = this.$refs.map
 

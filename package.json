@@ -8,7 +8,7 @@
     "lib"
   ],
   "scripts": {
-    "dev": "nuxt example",
+    "dev": "nuxt example --port 3003",
     "generate": "nuxt generate example",
     "lint": "eslint --ext .js,.vue example lib test",
     "release": "yarn test && standard-version && git push --follow-tags && npm publish",
