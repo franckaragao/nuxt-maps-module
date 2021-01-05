@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.2](https://github.com/franckaragao/nuxt-maps-module/compare/v0.2.1...v0.2.2) (2021-01-05)
+
+
+### Bug Fixes
+
+* **Plugin:** inject ctx ([d8d5530](https://github.com/franckaragao/nuxt-maps-module/commit/d8d553010346b40779c7a433b488312eff386375))
+
 ### [0.2.1](https://github.com/franckaragao/nuxt-maps-module/compare/v0.1.7...v0.2.1) (2021-01-05)
 
 
